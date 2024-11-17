@@ -12,5 +12,5 @@ Ever Félix De León Mendoza	          DM191820          4        <br/>
 Héctor José Marquez Chicas	          MC233291          4        <br/>
 
 
-#LINK DE VIDEO - DEFENSA:
+#LINK DE VIDEO - DEFENSA: <br/>
 https://drive.google.com/drive/folders/1JSICIOScCbky93l_QYEm6lZQ8JnxS5PY?usp=drive_link
