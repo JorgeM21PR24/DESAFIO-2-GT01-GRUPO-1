@@ -13,23 +13,23 @@ GT 01
         </thead>
         <tbody>
             <tr>
-                <td>Erick Roberto Zavaleta Rivera</td>
-                <td>ZR171491</td>
-                <td>1</td>
-            </tr>
-            <tr>
-                <td>Josseline Beatriz Pérez Martínez</td>
-                <td>PM171434</td>
-                <td>2</td>
-            </tr>
-            <tr>
                 <td>Erick Iván Peña Rivas</td>
                 <td>PR170059</td>
-                <td>3</td>
+                <td>1</td>
             </tr>
             <tr>
                 <td>Jorge Marvin Peña Roque</td>
                 <td>PR243380</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>Josseline Beatriz Pérez Martínez</td>
+                <td>PM171434</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>Erick Roberto Zavaleta Rivera</td>
+                <td>ZR171491</td>
                 <td>3</td>
             </tr>
             <tr>
