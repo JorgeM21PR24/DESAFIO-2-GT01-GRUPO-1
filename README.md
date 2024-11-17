@@ -47,6 +47,6 @@ GT 01
 
 
 #LINK DE VIDEO - DEFENSA: <br/>
-https://drive.google.com/drive/folders/1JSICIOScCbky93l_QYEm6lZQ8JnxS5PY?usp=drive_link
+https://drive.google.com/drive/folders/1JSICIOScCbky93l_QYEm6lZQ8JnxS5PY?usp=drive_link <br/>
 #LINK DE VIDEO - EJERCICIOS CON RESPALDOS DE BASE: En git no acepta mayor a 25 mb <br/>
 https://drive.google.com/drive/folders/1zD8_uXr135-G3da2RGXnjypZCOY2mxLd?usp=sharing
