@@ -3,13 +3,47 @@ Repositorio para tarea DMD : DESAFIO 2
 
 GT 01
 
-NOMBRE	                              CARNÉ          EJERCICIO   <br/>
-Erick Roberto Zavaleta Rivera	        ZR171491          1        <br/>
-Josseline Beatriz Pérez Martínez	    PM171434          2        <br/>
-Erick Iván Peña Rivas	                PR170059          3        <br/>
-Jorge Marvin Peña Roque	              PR243380          3        <br/>
-Ever Félix De León Mendoza	          DM191820          4        <br/>
-Héctor José Marquez Chicas	          MC233291          4        <br/>
+ <table border="1">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Carné</th>
+                <th>Ejercicio</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Erick Roberto Zavaleta Rivera</td>
+                <td>ZR171491</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>Josseline Beatriz Pérez Martínez</td>
+                <td>PM171434</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>Erick Iván Peña Rivas</td>
+                <td>PR170059</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>Jorge Marvin Peña Roque</td>
+                <td>PR243380</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>Ever Félix De León Mendoza</td>
+                <td>DM191820</td>
+                <td>4</td>
+            </tr>
+            <tr>
+                <td>Héctor José Marquez Chicas</td>
+                <td>MC233291</td>
+                <td>4</td>
+            </tr>
+        </tbody>
+    </table>
 
 
 #LINK DE VIDEO - DEFENSA: <br/>
